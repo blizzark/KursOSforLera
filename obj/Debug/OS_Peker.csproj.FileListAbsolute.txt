@@ -1,0 +1,10 @@
+C:\Project\OS Peker\KursOS\bin\Debug\OS_Peker.exe.config
+C:\Project\OS Peker\KursOS\bin\Debug\OS_Peker.exe
+C:\Project\OS Peker\KursOS\bin\Debug\OS_Peker.pdb
+C:\Project\OS Peker\KursOS\obj\Debug\KursOS.Form1.resources
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Peker.Properties.Resources.resources
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Peker.csproj.GenerateResource.cache
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Peker.csproj.CoreCompileInputs.cache
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Peker.exe
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Peker.pdb
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Peker.csprojAssemblyReference.cache

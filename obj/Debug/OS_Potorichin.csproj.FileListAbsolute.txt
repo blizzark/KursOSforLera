@@ -1,0 +1,10 @@
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Potorichin.csprojAssemblyReference.cache
+C:\Project\OS Peker\KursOS\obj\Debug\KursOS.Form1.resources
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Potorichin.csproj.GenerateResource.cache
+C:\Project\OS Peker\KursOS\bin\Debug\OS_Potorichin.exe.config
+C:\Project\OS Peker\KursOS\bin\Debug\OS_Potorichin.exe
+C:\Project\OS Peker\KursOS\bin\Debug\OS_Potorichin.pdb
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Potorichin.Properties.Resources.resources
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Potorichin.csproj.CoreCompileInputs.cache
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Potorichin.exe
+C:\Project\OS Peker\KursOS\obj\Debug\OS_Potorichin.pdb
